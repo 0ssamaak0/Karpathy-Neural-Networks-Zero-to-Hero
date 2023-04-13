@@ -9,7 +9,7 @@ I followed the original code in videos, with some modifications and more comment
 1- [Bigrams](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/makemore/part1_bigrams.ipynb)
 
 
-# Exercices
+# Exercices (in progress)
 ## Micrograd
 [Micrograd Exercices](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/micrograd%20exercises/micrograd_exercises.ipynb)
 
