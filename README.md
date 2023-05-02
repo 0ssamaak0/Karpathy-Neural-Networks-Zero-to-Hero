@@ -10,6 +10,8 @@ I followed the original code in videos, with some modifications and more comment
 
 2- [MLP](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/makemore/part2_MLP.ipynb)
 
+3- [BatchNorm](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/makemore/part3_bn.ipynb)
+
 
 # Exercices (in progress)
 ## Micrograd
@@ -17,6 +19,10 @@ I followed the original code in videos, with some modifications and more comment
 
 ## Makemore
 1- [Bigrams Exercices](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/makemore%20exercises/part1_bigrams._exercises.ipynb)
+
+2- [MLP Exercices](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/makemore%20exercises/part2_MLP_exercises.ipynb)
+
+3- [BatchNorm Exercices](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/makemore%20exercises/part3_bn_exercises.ipynb)
 
 # References
 - [Original Repository](https://github.com/karpathy/nn-zero-to-hero)
