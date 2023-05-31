@@ -1,4 +1,4 @@
-![cover]("/images/cover.png")
+![cover]("https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/images/cover.jpg?raw=true")
 
 This Repository is my implementation for `Andrej Karpathy's` [Neural Networks: Zero to Hero playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
 
