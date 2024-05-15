@@ -18,14 +18,14 @@ I followed the original code in videos, with some modifications and more comment
 | Makemore | [BackProp](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/makemore/part4_backprop.ipynb) | - | [BackProp Original Notebook](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb)
 | Makemore | [Wavenet](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/makemore/part5_wavenet.ipynb) | [Wavenet Exercises](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/makemore%20exercises/part5_wavenet_exercices.ipynb) | [Wavenet Original Notebook](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part5_cnn1.ipynb)
 | NanoGPT | [NanoGPT](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/nanoGPT/part6_nano_gpt.ipynb) | [NanoGPT Exercises](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/Exercises/nanoGPT%20exercises/part6_nano_gpt_exercises.ipynb) | [minbpe Original Notebook](https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing)
-| MinBPE | [MinBPE](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/minBPE/Tokenization.ipynb) | - | [nanoGPT Original Notebook](https://github.com/karpathy/ng-video-lecture)
+| Minbpe | [Minbpe](https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/minbpe/Tokenization.ipynb) | - | [Minbpe Original Notebook](https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing)
 
 
 # References
 - [micrograd Repository](https://github.com/karpathy/micrograd)
 - [makemore Repository](https://github.com/karpathy/makemore)
 - [nanoGPT Repository](https://github.com/karpathy/nanoGPT)
-- [minBPE Repository](https://github.com/karpathy/minbpe/tree/master)
+- [minbpe Repository](https://github.com/karpathy/minbpe/tree/master)
 
 other resources and papers links are in the repositories.
 
