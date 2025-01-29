@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/cover_GPT2.png?raw=true">
+    <img src = "https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero/blob/master/images/cover_GPT2.png?raw=true">
 
 <d>
 </div>
